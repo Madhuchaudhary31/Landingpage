@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Poppins:wght@100;300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+
+  
+}
+.container{
+    max-width: 80vw;
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+.navbar {
+    display: flex;
+    height: 67px;
+    
+}
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
+.topleft{
+    width: 50%;
+    height: 150px;
+    text-align: center;
+    
+  
+
+}
+.topright{
+   
+    width: 50%;
+    height: 150px;
+    
+}
+.section1{
+    max-height: 100vh;
+}
+
+.logo{
+    font-size: 1.3rem;
+}
+.topright .gymimg{
+    width: 350px;
+    height: 600px;
+}
+.hr {
+    margin-bottom: auto;
+}
